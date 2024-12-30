@@ -17,5 +17,6 @@ Below is some relevant stuff that I have experience with:
 ---
 
 Different repositories corrensponding to various projects that I complete can be found on my profile. Projects that I've completed are mentioned below:
+- [Inverter Analysis and Physical Verification using GPDK090](https://github.com/Yogi-3107/Inverter_analysis_and_physical_verification_using_gpdk090)
 
 ---
